@@ -1,0 +1,13 @@
+*.hex
+*.md
+*.M51
+*.__i
+*.lnp
+*.LST
+*.A51
+*.OBJ
+*.plg
+*.uvproj
+*.bak
+*.uvopt
+*.uvgui*
